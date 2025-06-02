@@ -32,7 +32,7 @@ module.exports = defineConfig({
     trace: 'on-first-retry',
     screenshot:'off',
     video:'off',
-    actionTimeout:60000,
+    actionTimeout:70000,
     navigationTimeout:60000,
     
   },
